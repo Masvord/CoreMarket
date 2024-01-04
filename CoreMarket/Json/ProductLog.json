@@ -1,0 +1,42 @@
+[
+  {
+    "Action": "Add",
+    "ProductName": "deneme12",
+    "Count": 12,
+    "BoughtPrice": 0.11,
+    "SoldPrice": 0.22,
+    "DateTime": "2024-01-04T12:23:45.2862815+03:00"
+  },
+  {
+    "Action": "Sell",
+    "ProductName": "deneme12",
+    "Count": 12,
+    "BoughtPrice": 11.00,
+    "SoldPrice": 22.00,
+    "DateTime": "2024-01-04T12:25:26.5620246+03:00"
+  },
+  {
+    "Action": "Add",
+    "ProductName": "deneme12",
+    "Count": 12,
+    "BoughtPrice": 1.10,
+    "SoldPrice": 0.22,
+    "DateTime": "2024-01-04T12:31:26.7737957+03:00"
+  },
+  {
+    "Action": "Sell",
+    "ProductName": "deneme12",
+    "Count": 12,
+    "BoughtPrice": 11.0,
+    "SoldPrice": 2.2,
+    "DateTime": "2024-01-04T12:31:46.1786806+03:00"
+  },
+  {
+    "Action": "Alış",
+    "ProductName": "Peynir",
+    "Count": 15,
+    "BoughtPrice": 10.0,
+    "SoldPrice": 254.6,
+    "DateTime": "2024-01-04T17:19:49.5250794+03:00"
+  }
+]
